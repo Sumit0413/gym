@@ -155,7 +155,7 @@ const EventPopup = () => {
             }}
           >
             <span className="text-lg sm:text-xl">💬</span>
-            <span className="text-sm sm:text-lg">GET STARTED ON WHATSAPP</span>
+            <span className="text-sm sm:text-lg">CONNECT ON WHATSAPP</span>
           </button>
           
           {/* Additional Info */}
